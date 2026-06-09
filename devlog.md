@@ -4,3 +4,4 @@
 - 2026-06-06T19:54:00: Researching Paytm UPI API architecture
 - 2026-06-07T11:52:00: Drafting GenZ demographics market research
 - 2026-06-08T11:57:00: Writing SQL schema for transactions and splits
+- 2026-06-09T21:42:00: Refining split calculation logic
