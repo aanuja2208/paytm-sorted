@@ -6,3 +6,4 @@
 - 2026-06-08T11:57:00: Writing SQL schema for transactions and splits
 - 2026-06-09T21:42:00: Refining split calculation logic
 - 2026-06-11T18:26:00: Setting up basic HTML/CSS structure
+- 2026-06-12T19:13:00: Implementing UI layout and flexbox constraints
