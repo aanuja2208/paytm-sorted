@@ -8,3 +8,4 @@
 - 2026-06-11T18:26:00: Setting up basic HTML/CSS structure
 - 2026-06-12T19:13:00: Implementing UI layout and flexbox constraints
 - 2026-06-13T22:21:00: Adding styling to home screen and ad banners
+- 2026-06-14T20:19:00: Fixing mobile responsiveness issues
