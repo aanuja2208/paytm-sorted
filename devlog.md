@@ -11,3 +11,4 @@
 - 2026-06-14T20:19:00: Fixing mobile responsiveness issues
 - 2026-06-15T14:19:00: Implementing receipt itemization grid
 - 2026-06-16T18:17:00: Adding dynamic split allocation logic
+- 2026-06-17T09:13:00: Calculating proportional tax distribution
