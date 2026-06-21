@@ -14,3 +14,4 @@
 - 2026-06-17T09:13:00: Calculating proportional tax distribution
 - 2026-06-18T09:17:00: Refining Split Score behavioral math
 - 2026-06-20T16:43:00: Adding visual sparkline to Split Score dashboard
+- 2026-06-21T17:42:00: Updating primary brand color palette
