@@ -20,3 +20,4 @@
 - 2026-06-24T18:01:00: Tweaking typography and component spacing
 - 2026-06-25T22:09:00: Drafting initial case study overview
 - 2026-06-26T11:14:00: Fleshing out monetization alignment strategy
+- 2026-06-27T13:54:00: Detailing behavioral design and gamification mechanics
